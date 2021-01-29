@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Adam!
+#### I am a software engineer who is passionate about creating apps with ReactJS to help make them more user friendly.
 
-<!--
-**AdamRuffner/AdamRuffner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / Node / HTML / CSS / APIs / Git 
 
-Here are some ideas to get you started:
+• Always trying to learn new things
+• Check out my [LinkedIn] (https:linkedin.com/adamruffner) [Instagram] (http:instagram.com/adamruffner10)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
