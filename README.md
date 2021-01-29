@@ -4,7 +4,7 @@
 Skills: REACT / JS / Node / HTML / CSS / APIs / Git 
 
 • Always trying to learn new things <br></br>
-• Check out my [LinkedIn](http://linkedin.com/in/adamruffner) or [Instagram](http://instagram.com/adamruffner10)
+• Check out my [LinkedIn](http://linkedin.com/in/adamruffner) and [Instagram](http://instagram.com/adamruffner10)
 
 
 
